@@ -1,6 +1,6 @@
 # Huddle Landing Page with Single Introductory Section
 
-This project is a solution to the [Huddle Landing Page with Single Introductory Section](https://www.frontendmentor.io/challenges/huddle-landing-page-with-single-introductory-section-B_2Wvxgi0) challenge on Frontend Mentor.
+This project is a solution to the [Huddle Landing Page with Single Introductory Section](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) challenge on Frontend Mentor.
 
 ### The Challenge
 
