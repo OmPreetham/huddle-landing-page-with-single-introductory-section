@@ -1,4 +1,4 @@
-import LandingPage from './assets/components/LandingPage'
+import LandingPage from './components/LandingPage'
 
 const App = () => {
   return <LandingPage />
