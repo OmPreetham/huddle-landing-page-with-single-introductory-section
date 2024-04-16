@@ -9,13 +9,13 @@ const LandingPage = () => {
   return (
     <>
       <header>
-        <img src="./images/logo.svg" alt="Huddle Logo" />
+        <img src="images/logo.svg" alt="Huddle Logo" />
       </header>
       <main>
         <section>
           <article>
             <img
-              src="./images/illustration-mockups.svg"
+              src="images/illustration-mockups.svg"
               alt="Illustration Mockup"
             />
           </article>
